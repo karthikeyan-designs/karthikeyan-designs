@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi there, I'm Karthikeyan!
 
-<!--
-**karthikeyan-designs/karthikeyan-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **VLSI engineer** passionate about ⚙️ digital design, 🧠 circuit simulation, and 🧩 open-source EDA tools.
 
-Here are some ideas to get you started:
+- ✨ **Hands-on experience** with:  
+  - Open-source tools: `Xschem`, `Ngspice`, `SKY130 PDK`, `eSim`  
+  - Industry tools: `Cadence Virtuoso`  
+- 🛠️ Building electronics projects using open-source EDA tools and resources  
+- 📘 Learning advanced concepts in **CMOS design**, **SPICE simulations**, and **custom VLSI circuits**  
+- 🌐 Interested in **semiconductor design** and **EDA development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**⚡ Let's wire ideas into silicon!**
+
+---
+
+### 🔧 My Expertise in EDA Tools
+
+• **Xschem**  
+• **Ngspice**  
+• **SKY130 PDK**  
+• **eSim**  
+• **Cadence Virtuoso**
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-designs&color=red)
