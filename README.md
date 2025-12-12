@@ -20,6 +20,7 @@ I'm an aspiring **VLSI engineer** passionate about ⚙️ digital design, 🧠 c
 • **SKY130 PDK**  
 • **eSim**  
 • **Cadence Virtuoso**
+• **Magic VLSI**
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-designs&color=red)
