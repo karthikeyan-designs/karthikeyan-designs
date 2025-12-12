@@ -3,7 +3,7 @@
 I'm an aspiring **VLSI engineer** passionate about ⚙️ digital design, 🧠 circuit simulation, and 🧩 open-source EDA tools.
 
 - ✨ **Hands-on experience** with:  
-  - Open-source tools: `Xschem`, `NGSPICE`, `SKY130 PDK`, `eSim`  
+  - Open-source tools: `Xschem`, `NGSPICE`, `SKY130 PDK`, `eSim`, `Magic VLSI`  
   - Industry tools: `Cadence Virtuoso`  
 - 🛠️ Building electronics projects using open-source EDA tools and resources  
 - 📘 Learning advanced concepts in **CMOS design**, **SPICE simulations**, and **custom VLSI circuits**  
@@ -19,8 +19,9 @@ I'm an aspiring **VLSI engineer** passionate about ⚙️ digital design, 🧠 c
 • **NGSPICE**  
 • **SKY130 PDK**  
 • **eSim**  
-• **Cadence Virtuoso**
+• **Cadence Virtuoso**  
 • **Magic VLSI**
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-designs&color=red)
