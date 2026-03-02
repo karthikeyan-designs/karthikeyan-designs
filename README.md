@@ -1,27 +1,29 @@
 ### 👋 Hi there, I'm Karthikeyan!
 
-I'm an aspiring **VLSI engineer** passionate about ⚙️ digital design, 🧠 circuit simulation, and 🧩 open-source EDA tools.
+I'm an aspiring **Digital Design and FPGA Engineer** passionate about RTL design, FPGA systems, and VLSI circuit design.
 
-- ✨ **Hands-on experience** with:  
-  - Open-source tools: `Xschem`, `NGSPICE`, `SKY130 PDK`, `eSim`, `Magic VLSI`  
-  - Industry tools: `Cadence Virtuoso`  
-- 🛠️ Building electronics projects using open-source EDA tools and resources  
-- 📘 Learning advanced concepts in **CMOS design**, **SPICE simulations**, and **custom VLSI circuits**  
-- 🌐 Interested in **semiconductor design** and **EDA development**
+### 🔧 Areas of Interest
+- RTL Design and FPGA Prototyping
+- HPS–FPGA SoC Systems
+- CMOS Circuit Design and SPICE Simulation
+- Open-source EDA Tools
+
+### 🛠️ Tools & Technologies
+• Verilog  
+• Quartus Prime  
+• Platform Designer  
+• MATLAB  
+• Cadence Virtuoso  
+• eSim  
+• NGSpice  
+• Magic VLSI  
+• SKY130 PDK  
+• OpenLANE
+
+### 🌱 Currently Learning
+• FPGA-based signal processing
+• Hardware acceleration techniques
 
 **⚡ Let's wire ideas into silicon!**
-
----
-
-### 🔧 My Expertise in EDA Tools
-
-• **Xschem**  
-• **NGSPICE**  
-• **SKY130 PDK**  
-• **eSim**  
-• **Cadence Virtuoso**  
-• **Magic VLSI**
-
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=karthikeyan-designs&color=red)
