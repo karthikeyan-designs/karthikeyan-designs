@@ -1,12 +1,14 @@
 ### 👋 Hi there, I'm Karthikeyan!
 
-I'm an aspiring **Digital Design and FPGA Engineer** focused on RTL design, FPGA-based systems, and VLSI circuit design. I enjoy building hardware–software co-design systems and exploring efficient implementations of real-time applications.
+I'm an aspiring **Digital Design and FPGA Engineer** focused on RTL design, FPGA-based systems, and VLSI circuit design. I enjoy building hardware–software co-design systems and exploring efficient implementations of real-time applications and embedded systems.
+
 
 ---
 
 ### 🔧 Areas of Interest
 - RTL Design and FPGA Prototyping  
-- HPS–FPGA SoC Systems  
+- HPS–FPGA SoC Systems
+- Embedded Systems and Hardware Interfacing 
 - CMOS Circuit Design and SPICE Simulation  
 - Open-source EDA Tools  
 
